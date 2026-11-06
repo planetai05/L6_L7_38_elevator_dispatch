@@ -1,0 +1,9 @@
+[run]
+omit =
+    *Test*
+    *test*
+
+[report]
+omit =
+    *Test*
+    *test*
